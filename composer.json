@@ -1,14 +1,14 @@
 {
-	"name": "xiaxiao002/jet-engine",
+	"name": "xiaxiao002/jet-menu",
 	"description": "",
 	"keywords": [
 		"wordpress",
 		"plugin"
 	],
-	"homepage":"https://github.com/xiaxiao002/jet-engine",
+	"homepage":"https://github.com/xiaxiao002/jet-menu",
 	"authors": [
 		{
-		"name": "jet-engine",
+		"name": "jet-menu",
 		"homepage":"https://eileenlue.com"
 		}
 	],
